@@ -1,0 +1,1 @@
+alert ("Tudo Certo como 2 + 2 é  = 5")
