@@ -5,5 +5,6 @@ No momento nos temos:
 
 - Formação Javascript Developer
 - Javascript
+- Python
 
-Estou me desafiando em novos projetos e em novas linguaguens. 
+Estou me desafiando em novos projetos e em novas linguaguens, acredito que os cursos da Dio junto com as ferramentas que ela mostra nas atividades me ajudaram a ter ideias de olhos problemas que tenho.
